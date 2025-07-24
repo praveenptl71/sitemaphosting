@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://praveenptl71.github.io/sitemaphosting/sitemap.xml
